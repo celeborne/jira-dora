@@ -1,5 +1,6 @@
 # sa-eis-dora
 Script written by Luke Thompson
+
 Licensed under the GNU General Public License version 3
 
 This script calculates the average lead and cycle times for a given period in the desired Jira project.
