@@ -1,4 +1,3 @@
-# sa-eis-dora
 Script written by Luke Thompson
 
 Licensed under the GNU General Public License version 3
